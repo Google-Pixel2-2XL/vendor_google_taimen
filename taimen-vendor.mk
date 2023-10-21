@@ -931,9 +931,11 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/vendor/lib64/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwms.so \
     vendor/google/taimen/proprietary/vendor/lib64/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml.so \
     vendor/google/taimen/proprietary/vendor/lib64/pixel-power-ext-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/pixel-power-ext-V1-ndk_platform.so \
+    vendor/google/taimen/proprietary/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-3.9.1.so \
     vendor/google/taimen/proprietary/vendor/lib64/sensors.msm8998.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.msm8998.so \
     vendor/google/taimen/proprietary/vendor/lib64/vendor.qti.atcmdfwd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.atcmdfwd@1.0.so \
     vendor/google/taimen/proprietary/vendor/lib64/vendor.qti.qcril.am@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qcril.am@1.0.so \
+    vendor/google/taimen/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
     vendor/google/taimen/proprietary/vendor/mbn/mcfg/configs/mcfg_sw/generic/APAC/Reliance/Commercial/mcfg_sw.mbn:$(TARGET_COPY_OUT_VENDOR)/mbn/mcfg/configs/mcfg_sw/generic/APAC/Reliance/Commercial/mcfg_sw.mbn \
     vendor/google/taimen/proprietary/vendor/mbn/mcfg/configs/mcfg_sw/generic/AUS/Default/VoLTE/mcfg_sw.mbn:$(TARGET_COPY_OUT_VENDOR)/mbn/mcfg/configs/mcfg_sw/generic/AUS/Default/VoLTE/mcfg_sw.mbn \
     vendor/google/taimen/proprietary/vendor/mbn/mcfg/configs/mcfg_sw/generic/AUS/Telstra/VoLTE/mcfg_sw.mbn:$(TARGET_COPY_OUT_VENDOR)/mbn/mcfg/configs/mcfg_sw/generic/AUS/Telstra/VoLTE/mcfg_sw.mbn \
