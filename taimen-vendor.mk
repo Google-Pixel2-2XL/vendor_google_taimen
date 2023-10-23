@@ -774,6 +774,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/vendor/lib/sensors.msm8998.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.msm8998.so \
     vendor/google/taimen/proprietary/vendor/lib/soundfx/libfmas.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libfmas.so \
     vendor/google/taimen/proprietary/vendor/lib/vendor.qti.qcril.am@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.qcril.am@1.0.so \
+    vendor/google/taimen/proprietary/vendor/lib/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-3.9.1.so \
     vendor/google/taimen/proprietary/vendor/lib64/com.fingerprints.extension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.fingerprints.extension@1.0.so \
     vendor/google/taimen/proprietary/vendor/lib64/com.qualcomm.qti.ims.radio@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.ims.radio@1.0.so \
     vendor/google/taimen/proprietary/vendor/lib64/com.qualcomm.qti.ims.radio@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.ims.radio@1.1.so \
